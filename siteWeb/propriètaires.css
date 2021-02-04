@@ -1,0 +1,16 @@
+h1{
+	text-align: center;
+text-decoration: underline;
+}
+html{
+	background: linear-gradient(rgb(0, 0, 1, 0.5), transparent), url("https://mag-habitat.fr/wp-content/uploads/2015/09/chambre-%C3%A0-coucher-adolescent.jpg");
+background-size: cover;
+
+
+}
+form{
+	color: black;
+	font-size: 1rem;
+	cursor: pointer;
+	
+}

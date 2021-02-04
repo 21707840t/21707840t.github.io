@@ -1,0 +1,18 @@
+html{
+min-height: 90vh;
+display: flex;
+justify-content: center;
+background: #C0C0C0;
+}
+strong{
+	color: green;
+	text-decoration: underline;
+  
+}
+.joo{
+	  text-decoration: none;
+	  color:green;
+	  font-style: italic;
+	  font-size: 15px;
+	 
+	}

@@ -1,0 +1,14 @@
+html{
+	min-height: 60vh;
+	background: url("https://www.balsan.com/sites/default/files/wysiwyg/couleur-bleu-petrole.jpg");
+background-size: cover;
+background-position: top;
+color: #C8FE2E;
+display: flex;
+flex-direction: column;
+justify-content: center;
+width: 100px;
+}
+a{
+	color: white;
+}

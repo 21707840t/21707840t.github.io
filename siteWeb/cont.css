@@ -1,0 +1,24 @@
+html{
+min-height: 90vh;
+background:  url("https://mag-habitat.fr/wp-content/uploads/2015/09/chambre-%C3%A0-coucher-adolescent.jpg");
+background-size: cover;
+background-position: bottom;
+color: #C8FE2E;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+font-size: 80px;
+
+}
+a{
+
+	
+	text-decoration: none;
+	color: white;
+
+
+}
+ul{
+	list-style: none;
+}
